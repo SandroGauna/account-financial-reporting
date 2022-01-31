@@ -1,0 +1,349 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* mis_builder_cash_flow
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sandro Gauna <sgeboxinfo@gmail.com>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.instance.period,name:mis_builder_cash_flow.mis_period_plus_1w
+msgid "+1w"
+msgstr ""
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.instance.period,name:mis_builder_cash_flow.mis_period_plus_2w
+msgid "+2w"
+msgstr ""
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.instance.period,name:mis_builder_cash_flow.mis_period_plus_3w
+msgid "+3w"
+msgstr ""
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.instance.period,name:mis_builder_cash_flow.mis_period_plus_4w
+msgid "+4w"
+msgstr ""
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.instance.period,name:mis_builder_cash_flow.mis_period_plus_5w
+msgid "+5w"
+msgstr ""
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.instance.period,name:mis_builder_cash_flow.mis_period_plus_6w
+msgid "+6w"
+msgstr ""
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.instance.period,name:mis_builder_cash_flow.mis_period_plus_7w
+msgid "+7w"
+msgstr ""
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.instance.period,name:mis_builder_cash_flow.mis_period_plus_8w
+msgid "+8w"
+msgstr ""
+
+#. module: mis_builder_cash_flow
+#: model:ir.model,name:mis_builder_cash_flow.model_account_account
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow__account_id
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow_forecast_line__account_id
+#: model_terms:ir.ui.view,arch_db:mis_builder_cash_flow.mis_cash_flow_forecast_line_view_search
+#: model_terms:ir.ui.view,arch_db:mis_builder_cash_flow.mis_cash_flow_search_view
+msgid "Account"
+msgstr "Conta"
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.kpi,description:mis_builder_cash_flow.mis_kpi_balance
+#, fuzzy
+msgid "BALANCE"
+msgstr "Saldo"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow_forecast_line__balance
+msgid "Balance"
+msgstr "Saldo"
+
+#. module: mis_builder_cash_flow
+#: model:mis.report,name:mis_builder_cash_flow.mis_report_cash_flow
+#: model:mis.report.instance,name:mis_builder_cash_flow.mis_instance_cash_flow
+#, fuzzy
+msgid "Cash Flow"
+msgstr "Tipo de fluxo de caixa"
+
+#. module: mis_builder_cash_flow
+#: model:ir.actions.act_window,name:mis_builder_cash_flow.action_mis_cash_flow_forecast_line
+#: model:ir.ui.menu,name:mis_builder_cash_flow.menu_mis_cash_flow_forecast_line
+#, fuzzy
+msgid "Cash Flow Forecast Line"
+msgstr "Demonstração do fluxo de caixa"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow__company_id
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow_forecast_line__company_id
+#: model_terms:ir.ui.view,arch_db:mis_builder_cash_flow.mis_cash_flow_forecast_line_view_search
+#: model_terms:ir.ui.view,arch_db:mis_builder_cash_flow.mis_cash_flow_search_view
+msgid "Company"
+msgstr "Empresa"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow_forecast_line__create_uid
+msgid "Created by"
+msgstr "Criado por"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow_forecast_line__create_date
+msgid "Created on"
+msgstr "Criado em"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow__credit
+msgid "Credit"
+msgstr "Crédito"
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.instance.period,name:mis_builder_cash_flow.mis_period_current
+msgid "Current"
+msgstr "Atual"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow__date
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow_forecast_line__date
+#: model_terms:ir.ui.view,arch_db:mis_builder_cash_flow.mis_cash_flow_forecast_line_view_search
+#: model_terms:ir.ui.view,arch_db:mis_builder_cash_flow.mis_cash_flow_search_view
+msgid "Date"
+msgstr "Data"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow__debit
+msgid "Debit"
+msgstr "Débito"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_account_account__display_name
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow__display_name
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow_forecast_line__display_name
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_report_instance_period__display_name
+msgid "Display Name"
+msgstr "Nome de exibição"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields.selection,name:mis_builder_cash_flow.selection__mis_cash_flow__line_type__forecast_line
+#: model_terms:ir.ui.view,arch_db:mis_builder_cash_flow.mis_cash_flow_search_view
+#, fuzzy
+msgid "Forecast Line"
+msgstr "Linha"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_account_account__hide_in_cash_flow
+#, fuzzy
+msgid "Hide in Cash Flow?"
+msgstr "Demonstração do fluxo de caixa"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_account_account__id
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow__id
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow_forecast_line__id
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_report_instance_period__id
+msgid "ID"
+msgstr "ID"
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.kpi,description:mis_builder_cash_flow.mis_kpi_in_total
+#, fuzzy
+msgid "IN TOTAL"
+msgstr "Total"
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.kpi,description:mis_builder_cash_flow.mis_kpi_in_forecast
+#, fuzzy
+msgid "In forecast"
+msgstr "Excluir todos os projetos/tarefas/previsão"
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.kpi,description:mis_builder_cash_flow.mis_kpi_in_receivable
+#, fuzzy
+msgid "In receivable"
+msgstr "Recebível"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow__move_line_id
+#: model:ir.model.fields.selection,name:mis_builder_cash_flow.selection__mis_cash_flow__line_type__move_line
+#: model_terms:ir.ui.view,arch_db:mis_builder_cash_flow.mis_cash_flow_search_view
+msgid "Journal Item"
+msgstr "Item do Diário"
+
+#. module: mis_builder_cash_flow
+#: model_terms:ir.ui.view,arch_db:mis_builder_cash_flow.mis_cash_flow_search_view
+msgid "Journal items where matching number isn't set"
+msgstr "Itens de diário em que o número correspondente não está definido"
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.kpi,description:mis_builder_cash_flow.mis_kpi_aliquidity
+#, fuzzy
+msgid "LIQUIDITY"
+msgstr "Liquidez"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_account_account____last_update
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow____last_update
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow_forecast_line____last_update
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_report_instance_period____last_update
+msgid "Last Modified on"
+msgstr "Última Modificação Feita em"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow_forecast_line__write_uid
+msgid "Last Updated by"
+msgstr "Útima atualização por"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow_forecast_line__write_date
+msgid "Last Updated on"
+msgstr "Útima atualização em"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow__line_type
+#: model_terms:ir.ui.view,arch_db:mis_builder_cash_flow.mis_cash_flow_search_view
+msgid "Line Type"
+msgstr "Tipo da LInha"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model,name:mis_builder_cash_flow.model_mis_cash_flow
+#, fuzzy
+msgid "MIS Cash Flow"
+msgstr "Tipo de fluxo de caixa"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model,name:mis_builder_cash_flow.model_mis_cash_flow_forecast_line
+#: model_terms:ir.ui.view,arch_db:mis_builder_cash_flow.mis_cash_flow_forecast_line_view_form
+#: model_terms:ir.ui.view,arch_db:mis_builder_cash_flow.mis_cash_flow_forecast_line_view_tree
+msgid "MIS Cash Flow Forecast Line"
+msgstr ""
+
+#. module: mis_builder_cash_flow
+#: model:ir.model,name:mis_builder_cash_flow.model_mis_report_instance_period
+msgid "MIS Report Instance Period"
+msgstr "Período da Instância do Relatório SIG"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow__full_reconcile_id
+#, fuzzy
+msgid "Matching Number"
+msgstr "Itens de diário em que o número correspondente não está definido"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow__name
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow_forecast_line__name
+msgid "Name"
+msgstr "Nome"
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.kpi,description:mis_builder_cash_flow.mis_kpi_out_total
+#, fuzzy
+msgid "OUT TOTAL"
+msgstr "Total"
+
+#. module: mis_builder_cash_flow
+#: model_terms:ir.ui.view,arch_db:mis_builder_cash_flow.mis_cash_flow_tree_view
+#, fuzzy
+msgid "Open Journal Item / Forecast Line"
+msgstr "Indica que este item do diário é uma linha de imposto"
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.kpi,description:mis_builder_cash_flow.mis_kpi_out_forecast
+#, fuzzy
+msgid "Out forecast"
+msgstr "Saída"
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.kpi,description:mis_builder_cash_flow.mis_kpi_out_payable
+#, fuzzy
+msgid "Out payable"
+msgstr "Saída"
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.kpi,description:mis_builder_cash_flow.mis_kpi_period_balance
+#, fuzzy
+msgid "PERIOD BALANCE"
+msgstr "Saldo do período"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow__partner_id
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow_forecast_line__partner_id
+#: model_terms:ir.ui.view,arch_db:mis_builder_cash_flow.mis_cash_flow_forecast_line_view_search
+msgid "Partner"
+msgstr "Parceiro"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow__reconciled
+msgid "Reconciled"
+msgstr "Reconciliado"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow__state
+msgid "State"
+msgstr "Estado"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,help:mis_builder_cash_flow.field_mis_cash_flow__account_internal_type
+msgid ""
+"The 'Internal Type' is used for features available on different types of "
+"accounts: liquidity type is for cash or bank accounts, payable/receivable is "
+"for vendor/customer accounts."
+msgstr ""
+"O 'Tipo Interno' é usado para as funções disponíveis em diferentes tipos de "
+"contas: Tipo de liquidez é para contas de caixa ou de banco, a pagar/receber "
+"é para contas de fornecedor/cliente."
+
+#. module: mis_builder_cash_flow
+#: code:addons/mis_builder_cash_flow/models/mis_cash_flow_forecast_line.py:0
+#, fuzzy, python-format
+msgid "The Company and the Company of the Account must be the same."
+msgstr "A Empresa na Planilha de Horas e no Departamento devem ser a mesma."
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,help:mis_builder_cash_flow.field_mis_cash_flow_forecast_line__account_id
+msgid "The account of the forecast line is only for informative purpose"
+msgstr "A conta da linha de previsão é apenas para fins informativos"
+
+#. module: mis_builder_cash_flow
+#: model_terms:ir.ui.view,arch_db:mis_builder_cash_flow.mis_cash_flow_form_view
+#: model_terms:ir.ui.view,arch_db:mis_builder_cash_flow.mis_cash_flow_tree_view
+msgid "Total"
+msgstr "Total"
+
+#. module: mis_builder_cash_flow
+#: model:ir.model.fields,field_description:mis_builder_cash_flow.field_mis_cash_flow__account_internal_type
+msgid "Type"
+msgstr "Tipo"
+
+#. module: mis_builder_cash_flow
+#: model_terms:ir.ui.view,arch_db:mis_builder_cash_flow.mis_cash_flow_search_view
+msgid "Unreconciled"
+msgstr "Não Conciliado"
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.instance.period,name:mis_builder_cash_flow.mis_period_plus_fourth_month
+#, fuzzy
+msgid "fourth month"
+msgstr "Quarto"
+
+#. module: mis_builder_cash_flow
+#: model:mis.report.instance.period,name:mis_builder_cash_flow.mis_period_plus_third_month
+#, fuzzy
+msgid "third month"
+msgstr "Terceiro"
